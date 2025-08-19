@@ -34,7 +34,7 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 |-----------------------|-------------------------------------|--------------------------|
 | **Bootstrap** | [🔗 Ver online](https://github.com/vinimsz/Bootstrap) | HTML / Bootstrap         |
 | **Jogo de Adivinha** | [🔗 Ver online](https://github.com/vinimsz/JogoAdivinhaTESTE) | Java|
-| **Nome do Projeto 3** | [🔗 Ver online](https://seu-link.com) | Flutter / Dart           |
+| **Nome do Projeto 3** | [🔗 Ver online](https://seu-link.com) |         |
 
 
 ---
