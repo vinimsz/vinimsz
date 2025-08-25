@@ -33,7 +33,7 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 | Projeto               | Preview Online                        | Tecnologias Usadas        |
 |-----------------------|-------------------------------------|--------------------------|
 | **Bootstrap** | [🔗 Ver online](https://github.com/vinimsz/Bootstrap) | HTML / Bootstrap         |
-| **Jogo de Adivinha** | [🔗 Ver online](https://github.com/vinimsz/JogoAdivinhaTESTE) | Java|
+| **Comparação Preço** | [🔗 Ver online](https://github.com/vinimsz/GASOLINAouETANOL) | Java|
 | **Nome do Projeto 3** | [🔗 Ver online](https://seu-link.com) |         |
 
 
@@ -43,7 +43,7 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 
 - 🎓 Atualmente estudo no **SENAI**
 - 💻 Estou aprendendo **[tecnologias que está aprendendo]**
-- 🎯 Meu objetivo é **[coloque seu objetivo, exemplo: ser desenvolvedor Full Stack]**
+- 🎯 Meu objetivo é **aprender mais**
 - 📚 Gosto de aprender sobre **Front-end, Back-end e UX/UI**
 - ✝ "Sabemos que todas as coisas cooperam para o bem daqueles que amam a Deus, daqueles que são chamados segundo o seu propósito"
 
