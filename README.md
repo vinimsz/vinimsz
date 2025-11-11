@@ -18,9 +18,7 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ### Mobile
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 
 ---
@@ -31,7 +29,7 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 |-----------------------|-------------------------------------|--------------------------|
 | **Bootstrap** | [🔗 Ver online](https://github.com/vinimsz/Bootstrap) | HTML / Bootstrap         |
 | **Comparação Preço** | [🔗 Ver online](https://github.com/vinimsz/GASOLINAouETANOL) | Java|
-| **Nome do Projeto 3** | [🔗 Ver online](https://seu-link.com) |         |
+| **...** | [🔗 Ver online](https://seu-link.com) |         |
 
 
 ---
