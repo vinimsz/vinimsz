@@ -37,7 +37,6 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 ## 💡 Sobre Mim
 
 - 🎓 Atualmente estudo no **SENAI**
-- 💻 Estou aprendendo **[tecnologias que está aprendendo]**
 - 🎯 Meu objetivo é **aprender mais**
 - 📚 Gosto de aprender sobre **Front-end, Back-end e UX/UI**
 - ✝ "Sabemos que todas as coisas cooperam para o bem daqueles que amam a Deus, daqueles que são chamados segundo o seu propósito"
