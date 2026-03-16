@@ -27,7 +27,7 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 
 | Projeto               | Preview Online                        | Tecnologias Usadas        |
 |-----------------------|-------------------------------------|--------------------------|
-| **Facilita SENAI** | [🔗 Ver online]((https://github.com/gitmcardoso/FacilitaSenai)) | JS, HTML, CSS       |
+| **Facilita SENAI** | [🔗 Ver online](https://github.com/gitmcardoso/FacilitaSenai) | JS, HTML, CSS       |
 | **Ecologia** | [🔗 Ver online](https://github.com/vinimsz/ecologia) | HTML / Bootstrap         |
 | **Comparação Preço** | [🔗 Ver online](https://github.com/vinimsz/GASOLINAouETANOL) | Java |
 | **...** | [🔗 Ver online](https://seu-link.com) |         |
