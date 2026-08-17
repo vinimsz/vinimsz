@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou Vinícius
 
-Sou estudante de **Engenharia de Software**, técnico em **Desenvolvimento de Sistemas**. Tenho interesse especial em Front-End, Back-End, Mobile, UX/UI, etc.
+Sou estudante de **Ciência da Computação** na **SPTech**, técnico em **Desenvolvimento de Sistemas** pelo **SENAI**. Tenho interesse especial em Dados, Back-End, UX/UI, etc.
 
 ---
 
@@ -38,7 +38,7 @@ Sou estudante de **Engenharia de Software**, técnico em **Desenvolvimento de Si
 ## 💡 Sobre Mim
 
 - 🎯 Meu objetivo é **aprender mais**
-- 📚 Gosto de aprender sobre **Front-end, Back-end e UX/UI**
+- 📚 Gosto de aprender sobre **Dados, Back-end e UX/UI**
 - ✝ "Sabemos que todas as coisas cooperam para o bem daqueles que amam a Deus, daqueles que são chamados segundo o seu propósito"
 
 ---
